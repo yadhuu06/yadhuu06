@@ -1,54 +1,58 @@
-# Hi there, I'm Yadhu Krishnan PS 👋
+# Hi there, I'm Yadhu Krishnan PS! 👋  
 
-## 🌟 About Me
+## 🌟 About Me  
 
-- 🎓 **Education**: B.Com graduate from Mahatma Gandhi University.
-- 💻 **Aspiring Full-Stack Developer**: Currently honing my skills in **Python** and **Django**.
-- 🧮 **Work Experience**: 
-  - Accountant at **Force Academy**, **Capital Petroleum**, and a **spices export company**.
-  - Transitioning into tech to merge my analytical and problem-solving skills.
-- 🌱 **Learning**: Data Structures and Algorithms (DSA), React.js, and advanced web development concepts.
+🚀 **Aspiring Full-Stack Developer** | 💡 **Problem Solver** | 🔥 **Tech Enthusiast**  
 
----
-
-## 🚀 Projects
-
-### 🔥 React Todo App
-- **Description**: A simple and intuitive task management application built using React.js.
-- **Features**: Add, edit, and delete tasks.
-- **Repo**: [React Todo App](https://github.com/yadhuu06/react-todo-app)
-
-### 🕰️ Watch Shop
-- **Description**: A stylish and interactive e-commerce website for watches.
-- **Features**: 
-  - Carousel for featured and recently viewed products.
-  - Professional, modern design with Bootstrap and custom styling.
-- **Hosted At**: [16.171.146.61](http://16.171.146.61)
+- 🎓 **B.Com Graduate** from Mahatma Gandhi University.  
+- 💻 **Currently mastering:** Python, Django, React.js, and DSA.  
+- 📊 **Work Experience:** Former Accountant at Force Academy, Capital Petroleum & a Spices Export Company.  
+- 🔄 **Career Transition:** Merging analytical skills with tech to build innovative solutions.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Projects  
 
-- **Languages**: Python, JavaScript, HTML, CSS.
-- **Frameworks & Libraries**: Django, React.js, Bootstrap.
-- **Tools**: Git, VS Code, Postman.
+### 📝 **React Todo App**  
+A simple and intuitive task management app built with React.js.  
+✔️ Features: Add, Edit, Delete tasks.  
+🔗 [GitHub Repo](https://github.com/yadhuu06/react-todo-app)  
 
----
-
-## 🌟 Fun Facts
-
-- 🌐 I'm passionate about creating user-friendly, visually appealing websites.
-- 🎮 Enjoy solving coding challenges and exploring creative solutions.
-- 📚 Constantly learning new concepts and improving my skills.
-
----
-
-## 📫 Connect with Me
-
-- **LinkedIn**: [Yadhu Krishnan PS](https://www.linkedin.com/in/yadhu-krishnan-ps)
-- **GitHub**: [@yadhuu06](https://github.com/yadhuu06)
+### ⌚ **Watch Shop**  
+A stylish e-commerce platform for watches.  
+✔️ Features: Google Login, Razorpay integration, Item Returns, Product Carousel.  
+🌍 **Hosted on AWS**  
+🔗 [Live Demo](#) (Add your live link here!)  
 
 ---
 
-### ⚡ Quote I Live By
-_"The best way to predict the future is to create it."_ – Peter Drucker
+## 🛠️ Tech Stack  
+
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks & Libraries:** Django, React.js, Bootstrap  
+**Tools:** Git, VS Code, Postman  
+
+---
+
+## 🌟 Fun Facts  
+
+🌐 Passionate about building **user-friendly, visually appealing** web apps.  
+🎯 Love solving coding challenges and finding creative solutions.  
+📖 Always learning & improving my development skills.  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yadhu-krishnan-2aa958300/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yadhuu06)  
+
+---
+
+## ⚡ Quote I Live By  
+
+> *"The best way to predict the future is to create it."* – Peter Drucker  
+
+---
+
+⭐ **Let's connect and build something amazing!**  
