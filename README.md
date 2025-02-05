@@ -59,3 +59,8 @@ A simple and intuitive task management app built with React.js.
 ---
 
 ⭐ **Let's connect and build something amazing!**  
+
+
+
+
+![GitHub Snake](https://github.com/yadhuu06/yadhuu06/blob/output/github-contribution-grid-snake.svg) 
