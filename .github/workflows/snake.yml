@@ -18,6 +18,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
+      - name: Set correct permissions
+        run: chmod -R 777 dist
+
       - name: Commit and Push the Snake Animation
         run: |
           git config --global user.name "GitHub Actions"
