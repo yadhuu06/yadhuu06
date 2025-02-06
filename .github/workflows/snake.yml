@@ -19,7 +19,7 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Set correct permissions
-        run: chmod -R 777 dist
+        run: chmod 644 dist/snake.svg || true  # Avoid failure if chmod is not allowed
 
       - name: Commit and Push the Snake Animation
         run: |
