@@ -17,7 +17,7 @@
 A stylish e-commerce platform for watches.  
 ✔️ Features: Google Login, Razorpay integration, Item Returns, Product Carousel.  
 🌍 **Hosted on AWS**  
-🔗  [GitHub Repo](https://github.com/yadhuu06/react-todo-app](https://github.com/yadhuu06/Time-Twist))  
+🔗  [Domain(currently instance is of)]((https://timetwist.shop/))  
   
 
 ### 📝 **React Todo App**  
