@@ -1,4 +1,8 @@
-![Header Image](https://raw.githubusercontent.com/yadhuu06/yadhuu06/main/banner.png)
+
+
+
+
+![Header Image](https://media.licdn.com/dms/image/v2/D4E16AQFiW6Eb3qcn3w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721711745129?e=1748476800&v=beta&t=pXLx9BvOTU5Nm3Weqh4iUupnGNA_6mQrA8gX3lGxRVg)
 
 # Hi there, I'm Yadhu Krishnan PS! 👋  
 
@@ -86,7 +90,5 @@
 
 ---
 
-
----
 
 ⭐ **Let’s connect and build something extraordinary together!**  
