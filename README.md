@@ -84,10 +84,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
 
-![GitHub Snake](https://raw.githubusercontent.com/yadhuu06/yadhuu06/main/.github/assets/github-contribution-grid-snake.svg)  
-
----
 
 ⭐ **Let’s connect and build something extraordinary together!**  
