@@ -1,6 +1,8 @@
+![Header Image](https://raw.githubusercontent.com/yadhuu06/yadhuu06/main/banner.png)
+
 # Hi there, I'm Yadhu Krishnan PS! 👋  
 
-![Profile Banner](https://img.shields.io/badge/Full--Stack%20Developer-🚀-blue?style=for-the-badge)  
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack%20Developer-🚀-blue?style=for-the-badge)  
 *Aspiring to build scalable, innovative solutions one line of code at a time!*
 
 ---
@@ -85,5 +87,6 @@
 ---
 
 
+---
 
 ⭐ **Let’s connect and build something extraordinary together!**  
