@@ -16,9 +16,9 @@
 
 🚀 **Aspiring Full-Stack Developer** | 💡 **Problem Solver** | 🔥 **Tech Enthusiast**  
 
-- 🎓 **B.Com Graduate** from Mahatma Gandhi University, Kerala (2017–2020).  
+- 🎓 **B.Com Graduate** from Mahatma Gandhi University, Kerala (2018–2021).  
 - 💻 **Currently mastering:** Python, Django, React.js, and Data Structures & Algorithms (DSA).  
-- 📊 **Work Experience:** Former Accountant & Manager at Capital Petroleum, Spiceway Enterprises Pvt Ltd (2020–2022).  
+- 📊 **Work Experience:** Former Accountant & Manager at Capital Petroleum, Spiceway Enterprises Pvt Ltd (2021–2023).  
 - 🔄 **Career Transition:** Blending analytical expertise with tech to craft impactful web applications.  
 
 ---
