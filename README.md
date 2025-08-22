@@ -1,71 +1,66 @@
 ![Header Image](https://media.licdn.com/dms/image/v2/D4E16AQFiW6Eb3qcn3w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721711745129?e=1758758400&v=beta&t=SwJg03BUnbs7KYnI-Cfl02m4n9i_9Myvpww8mWKQ420)
 
-
 # Hi there, I'm Yadhu Krishnan PS! 👋
 
 ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack%20Developer-🚀-blue?style=for-the-badge)
 
-Building secure, scalable, real-time web apps one line of code at a time.
+I build **secure, scalable, real-time web applications**, with a passion for backend systems, Python, Django, FastAPI, and modern frontend technologies.
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 **B.Com Graduate** from Mahatma Gandhi University (2018–2021)  
-- 💻 Self-taught Full-Stack Developer focused on solving real-world problems  
-- 🧠 Actively learning DSA, exploring system design, and contributing to scalable solutions  
-- 🔄 Transitioned from accounting to tech with hands-on experience in Python, Django, React.js, PostgreSQL & WebSockets  
+- 🎓 **B.Com Graduate** from Mahatma Gandhi University  
+- 💻 Self-taught Full-Stack Developer with hands-on experience in Python, Django, FastAPI, React.js & PostgreSQL  
+- 🧠 Continuously learning **DSA, system design**, and contributing to scalable solutions  
+- 🔄 Transitioned from accounting to tech, with 1.5+ years of full-time coding and project experience  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### ⚔️ Bit War – Real-Time Coding Battle Platform  
 A competitive coding platform where users battle in real-time with ranked logic challenges.
 
-- Real-time WebSocket-powered matchmaking  
-- Dynamic question generation per room logic  
-- Role-based battle flow with timers and score logic  
-- Scalable room system: private, public, or ranked  
+- Real-time WebSocket-powered matchmaking & dynamic questions  
+- Role-based battle flow, timers, scoring logic  
+- Scalable room system: private, public, ranked  
 - Secure authentication with JWT
 
-🔗 [Frontend Repo](https://github.com/yadhuu06/BitWar-front-end)  
-🔗 [Backend Repo](https://github.com/yadhuu06/bitwar-backend)
+🔗 [Frontend Repo](https://github.com/yadhuu06/BitWar-front-end) | 🔗 [Backend Repo](https://github.com/yadhuu06/bitwar-backend)  
+🌐 [Live Project](https://www.bitcode.live/)
 
 ---
 
 ### ⌚ Time Twist – Watch E-Commerce Platform  
-A sleek and functional e-commerce solution for watch enthusiasts.
+A fully functional e-commerce platform for watch enthusiasts.
 
 - Google OAuth & Razorpay Integration  
-- Product returns, user dashboard & order tracking  
-- Interactive UI with carousels and dynamic filtering  
+- User dashboard, order tracking, and product returns  
+- Interactive UI with carousels & dynamic filtering  
 
-🌍 [Live Site](https://timetwist.shop/)  
-🔗 [Frontend Repo](https://github.com/yadhuu06/time-twist-frontend)  
-🔗 [Backend Repo](https://github.com/yadhuu06/time-twist-backend)
+🌐 [Live Site](https://timetwist.shop/) | 🔗 [Repo](https://github.com/yadhuu06/time-twist)
 
 ---
 
 ### ✅ React Todo App  
-A simple yet effective todo app built with React.js
+A simple, responsive task management app using React.js.
 
-- Manage tasks with add/edit/delete functionality  
-- Responsive and clean UI built with React hooks
-
+- Add, edit, delete tasks  
+- Clean UI with React hooks  
 🔗 [GitHub Repo](https://github.com/yadhuu06/react-todo-app)
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category        | Tools & Tech                                                                 |
-|-----------------|-------------------------------------------------------------------------------|
-| Languages       | Python, JavaScript, HTML, CSS, SQL                                           |
-| Frameworks      | Django, Django REST Framework, React.js, Bootstrap                          |
-| Databases       | PostgreSQL, MongoDB                                                          |
-| Realtime        | Django Channels, WebSockets                                                  |
-| Tools           | Git, GitHub, VS Code, Postman, JWT, Vite, Figma                              |
+| Category        | Tools & Tech                                   |
+|-----------------|-----------------------------------------------|
+| Languages       | Python, JavaScript, HTML, CSS, SQL           |
+| Frameworks      | Django, Django REST Framework, FastAPI, React |
+| Databases       | PostgreSQL, MongoDB                           |
+| Realtime        | Django Channels, WebSockets                   |
+| Tools & DevOps  | Git, GitHub, Docker, Postman, JWT, Vite      |
 
 ---
 
@@ -81,14 +76,16 @@ A simple yet effective todo app built with React.js
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yadhu-krishnan-2aa958300/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yadhuu06)
 
-💬 Open to freelance projects, collaborations, or just tech conversations!
+💬 Open to **Full-Time, Freelance, or Collaboration Opportunities**  
 
 ---
 
-## ✨ Quote I Live By
+## ✨ Elevator Pitch
+
+I’m an experienced **Python/Django/FastAPI developer** with hands-on experience building **real-time, scalable applications**. I thrive on solving complex problems, taking full ownership of projects, and continuously learning new technologies. My goal is to **deliver impactful software** while growing as a full-stack engineer.  
 
 > *“The best way to predict the future is to create it.”* – Peter Drucker
 
 ---
 
-⭐ **Thanks for visiting — let’s build something great together!**
+⭐ **Thanks for visiting — let’s build something amazing together!**
