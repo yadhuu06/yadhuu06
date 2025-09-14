@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Python+Full-Stack+Developer;Sefl+Learner;Django+FastApi,+%26+React+Specialist;Real-Time+Systems+Builder;Cloud+Deployments+%7C+AWS+%26;Turning+Imagination+into+Real-World+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Python+Full-Stack+Developer;Self+Learner;Django+FastApi,+%26+React+Specialist;Real-Time+Systems+Builder;Cloud+Deployments+%7C+AWS+%26;Turning+Imagination+into+Real-World+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,8 +20,8 @@
 
 
   
-[![Email](https://img.shields.io/badge/📧_Email-yadhukrishnanps@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadhuu.ps@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadhukrishnan-s/)
+[![Email](https://img.shields.io/badge/📧_Email-yadhu.ps@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadhuu.ps@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/yadhuu06/)
 
 </div>
 
@@ -252,7 +252,7 @@ learning_journey = {
 
 **📫 Contact Me:**
 - **Email:** [yadhuu.ps@gmail.com](mailto:yadhuu.ps@gmail.com)
-- **LinkedIn:** [Yadhu Krishnan PS](https://www.linkedin.com/in/yadhukrishnan-s/)
+- **LinkedIn:** [Yadhu Krishnan PS](https://github.com/yadhuu06/)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's build something impactful together!**
 
