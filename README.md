@@ -13,12 +13,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="150"/>
+  <img src="https://drive.google.com/uc?export=download&id=1C3tC_LSEjsjdQJP8ES3zVyPC9gVuubWu" width="100%" height="100%"/>
 </div>
 
-<div align="center">
+
+
   
 [![Email](https://img.shields.io/badge/📧_Email-yadhukrishnanps@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadhuu.ps@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadhukrishnan-s/)
@@ -26,7 +26,7 @@
 </div>
 
 ---
-
+# About Me
 ```python
 class YadhuKrishnan:
     """
@@ -60,12 +60,15 @@ class YadhuKrishnan:
 
 ## 🔥 Featured Projects
 
-### ⚔️ **BitCode** - Real-Time Competitive Programming Platform
-*Live at: [bitcode.live](https://bitcode.live)*
+### ⚔️ **BitCode** - Real-Time Coding Battle Platform ⚔️
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Battle Animation"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="45%" height="200px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGFtZ2VkNnl4OHRxaGJjdDBkOXV2OGc4b2oxZzJoNGQ0MjhsZzVkMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="45%" height="200px" />
 </div>
+
+*Live at: [bitcode.live](https://bitcode.live)*
+
 
 **🏆 Flagship Real-Time Platform** | [Backend Repository](https://github.com/yadhuu06/bitcode)
 
@@ -95,6 +98,10 @@ Caching: Redis for performance optimization
 
 ### 📝 **Boom-Blog** - Modern FastAPI Blog Platform
 *Showcasing FastAPI Expertise*
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd2bnI0bW9wZnp3azQzNzc3c3lpbTQ2aGpxeW1sNzNxaGtnN2k4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VSdDYE0AjOyWWDpmiu/giphy.gif" width="45%" height="200px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d2ZmZwaDQ0d2Exd3g3eGlqaGk0cjRmMmoxM2Noc2htYjF5a292aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XyJPNKBskIDWR3Md8K/giphy.gif" width="45%" height="200px" />
+</div>
 
 **🚀 FastAPI Excellence** | [View Repository](https://github.com/yadhuu06/boom-blog)
 
@@ -123,7 +130,11 @@ Admin Features: User management and content moderation
 ### ⌚ **Time-Twist** - E-Commerce Platform
 *Complete E-Commerce Solution for Watch Enthusiasts*
 
-**💰 Full-Stack E-Commerce** | [View Repository](https://github.com/yadhuu06/time-twist) | *Hosted on AWS*
+**💰 Full-Stack E-Commerce app for watches ** | [View Repository](https://github.com/yadhuu06/time-twist) | *Hosted on AWS*
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1ldWNwM2dnZTA3YXB2ZGV1ZWwzeDJhbWs2d3llNnJocWdkOHdsZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QW534qz1UEL6qKfv0r/giphy.gif" width="45%" height="200px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1ldWNwM2dnZTA3YXB2ZGV1ZWwzeDJhbWs2d3llNnJocWdkOHdsZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d8Emd2WnaJR2HoiHQy/giphy.gif" width="45%" height="200px" />
+</div>
 
 Feature-rich e-commerce platform built with Django, providing seamless shopping experience.
 
@@ -192,9 +203,6 @@ Cloud: AWS deployment with scalable infrastructure
 
 ## 🎯 Current Learning & Growth
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Learning Animation"/>
-</div>
 
 ```python
 learning_journey = {
