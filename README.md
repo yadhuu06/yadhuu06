@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Python+Full-Stack+Developer;Django+FastApi,+%26+React+Specialist;Real-Time+Systems+Builder;Cloud+Deployments+%7C+AWS+%26+Docker;Building+Imaginary+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Python+Full-Stack+Developer;Sefl+Learner;Django+FastApi,+%26+React+Specialist;Real-Time+Systems+Builder;Cloud+Deployments+%7C+AWS+%26;Turning+Imagination+into+Real-World+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,14 +27,19 @@
 
 ---
 # About Me
-```python
 class YadhuKrishnan:
     """
     👋 Hi! I'm Yadhu Krishnan PS
     Python Full-Stack Developer | Former Accountant → Tech Innovator
-    Passionate about building scalable, real-time applications.
+    Passionate about building scalable, real-time applications that solve real problems.
     """
 
+    def __init__(self):
+        self.name = "Yadhu Krishnan PS"
+        self.role = "Full-Stack Developer"
+        self.location = "Kerala, India"
+        self.passion = "Building high-performance applications"
+        
     def professional_expertise(self):
         return {
             "Backend": ["Python", "Django", "FastAPI", "Django Channels"],
@@ -42,19 +47,20 @@ class YadhuKrishnan:
             "RealTimeSystems": ["WebSockets", "Django Channels", "Redis"],
             "Databases": ["PostgreSQL", "Database Design & Optimization"],
             "Architecture": ["REST APIs", "Real-Time Systems", "Authentication"],
-            "CloudTools": ["AWS", "Judge0", "ImageKit", "Cloudinary"]
+            "CloudTools": ["AWS", "Judge0", "ImageKit", "Cloudinary"],
+            "PaymentGateways": ["Razorpay", "Stripe"]
         }
 
     def current_focus(self):
         return [
-            "Advanced FastAPI Patterns",
-            "Microservices Architecture & Design",
-            "System Scalability & Optimization"
+            "🚀 Advanced FastAPI Patterns & Microservices",
+            "⚡ System Scalability & Performance Optimization",
+            "🏗️ Cloud Architecture & DevOps Practices",
+            "🔍 Advanced Data Structures & Algorithms"
         ]
 
-    def passion(self):
-        return "Building high-performance applications that solve real-world problems."
-```
+    def career_highlight(self):
+        return "Transformed from Finance Professional to self Learned Full-Stack Developer"
 
 ---
 
@@ -165,7 +171,6 @@ Cloud: AWS deployment with scalable infrastructure
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Real-Time & Architecture**
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -179,12 +184,18 @@ Cloud: AWS deployment with scalable infrastructure
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### **Database**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### **Cloud & Services**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Judge0](https://img.shields.io/badge/Judge0-4B32C3?style=for-the-badge&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </div>
+
 
 ---
 
@@ -237,7 +248,7 @@ learning_journey = {
 - **Full-Stack Development** (Python/React)
 - **Backend Engineering** (Django/FastAPI)
 - **Real-Time Systems** Development
-- **Microservices** Architecture
+
 
 **📫 Contact Me:**
 - **Email:** [yadhuu.ps@gmail.com](mailto:yadhuu.ps@gmail.com)
