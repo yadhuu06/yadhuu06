@@ -2,7 +2,7 @@
 
 # Yadhu Krishnan PS
 
-### Lead AI Engineer · AI Systems Architect · Full-Stack Engineer
+### Lead AI Engineer ·  Full-Stack Engineer
 
 Building production-ready AI platforms, scalable backend systems, and products that solve real business problems.
 
